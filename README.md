@@ -1,8 +1,5 @@
 # arraycompare
 
-package project;
-import java.util.Scanner;
-public class arraycompare {
 
 	public class array  {
 		static boolean equals(int [] a, int [] b) {
@@ -45,4 +42,4 @@ public class arraycompare {
 		
 		}
 	}
-}
+
