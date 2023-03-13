@@ -2,13 +2,15 @@
 
 ### 자바 배열 알고리즘
 
+<br><br><br><br>
+
 ![image](https://user-images.githubusercontent.com/114748816/224601022-d31d3a63-3402-422c-a0b4-5e173b191d7b.png)
 
-먼저 a와 b를 비교해 같은지 분별하는 매서드를 생성해 준다.   <br><br><br><br><br><br>
+먼저 a와 b를 비교해 같은지 분별하는 매서드를 생성해 준다. <br><br><br><br>
 
 ![image](https://user-images.githubusercontent.com/114748816/224600820-64a5b491-ffc1-47ff-815a-4251255ed4c0.png)
 
-a의 길이와 b의 길이가 같지 않다면 main 메서드로 false를 보내 false 값을 출력한다.
+a의 길이와 b의 길이가 같지 않다면 main 메서드로 false를 보내 false 값을 출력한다. <br><br><br><br>
 
 '![image](https://user-images.githubusercontent.com/114748816/224600855-d2f21dc6-1597-4b2f-aa38-fad252857ba5.png)
 
