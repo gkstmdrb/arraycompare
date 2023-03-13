@@ -10,7 +10,7 @@
 <br><br><br><br>
 
 a의 길이와 b의 길이가 같지 않다면 main 메서드로 false를 보내 false 값을 출력한다. <br><br>
-(false값은 삼항 연산자를 이용해 '? a : b' 형태로 사용 할 수 있으며, : 앞에 있다면 true값을, : 뒤에 있다면 false값을 출력한다.) <br><br>
+(false값은 삼항 연산자를 이용해 ((조건문)? 참 : 거짓) 형태로 사용 할 수 있으며, : 앞에 있다면 true값을, : 뒤에 있다면 false값을 출력한다.) <br><br>
 ![image](https://user-images.githubusercontent.com/114748816/224600820-64a5b491-ffc1-47ff-815a-4251255ed4c0.png)
 
 <br><br><br><br>
