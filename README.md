@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/114748816/224601022-d31d3a63-3402-422c-a0b4-5e173b191d7b.png)
 
-먼저 a와 b를 비교해 같은지 분별하는 매서드를 생성해 준다.    
+먼저 a와 b를 비교해 같은지 분별하는 매서드를 생성해 준다.   <br><br> 
 
 ![image](https://user-images.githubusercontent.com/114748816/224600820-64a5b491-ffc1-47ff-815a-4251255ed4c0.png)
 
