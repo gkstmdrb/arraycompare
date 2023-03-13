@@ -2,7 +2,7 @@
 
 ### 자바 배열 알고리즘
 
-<br><br><br><br>
+<br><br>
 
 ![image](https://user-images.githubusercontent.com/114748816/224601022-d31d3a63-3402-422c-a0b4-5e173b191d7b.png)
 
