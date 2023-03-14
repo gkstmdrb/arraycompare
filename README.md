@@ -57,9 +57,9 @@ int []은 정수형 배열을 선언, a는 배열의 이름, new int[x]는 x개�
 		int x = sc.nextInt();				\\ x 방에 입력한 값을 대입한다.
 		int [] a = new int[x];		\\ int []은 정수형 배열을 선언, a는 배열의 이름, new int[x]는 x개의 정수를 저장할 수 있는 배열을 생성하는 것이다.
 		
-		for (int i=0; i<x; i++) {
-			System.out.println("a["+i+"]: ");
-			a[i] = sc.nextInt();
+		for (int i=0; i<x; i++) {			\\ for(i=0이고, i가 입력한 값보다 작다면 i값을 1늘린다.)
+			System.out.println("a["+i+"]: ");	\\ a[(i값)]을 출력한다.
+			a[i] = sc.nextInt();			
 		}
 		System.out.println("배열의 b길이: ");
 		int y = sc.nextInt();
