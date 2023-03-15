@@ -57,17 +57,17 @@ int []은 정수형 배열을 선언, a는 배열의 이름, new int[x]는 x개�
 		int x = sc.nextInt();				\\ x 방에 입력한 값을 대입한다.
 		int [] a = new int[x];		\\ int []은 정수형 배열을 선언, a는 배열의 이름, new int[x]는 x개의 정수를 저장할 수 있는 배열을 생성하는 것이다.
 		
-		for (int i=0; i<x; i++) {			\\ for(i=0이고, i가 입력한 값보다 작다면 i값을 1늘린다.)
+		for (int i=0; i<x; i++) {			\\ for(i=0이고, i가 입력한 값보다 작다면 i값을 1증가시킨다.)
 			System.out.println("a["+i+"]: ");	\\ a[(i값)]을 출력한다.
 			a[i] = sc.nextInt();			\\ 사용자로부터 입력받은 정수값을 배열 a의 i번째 인덱스에 저장한다.
 		}
 		System.out.println("배열의 b길이: ");
 		int y = sc.nextInt();				\\ y 방에 입력한 값을 대입한다.
-		int [] b = new int[y];				\\ 
+		int [] b = new int[y];				\\ int[]는 배열의 자료형을 나타내고, 이 경우에는 정수형 배열이다. y에 저장된 크기만큼 배열이 생성된다.
 		
-		for (int i=0; i<x; i++) {
-			System.out.println("b["+i+"]: ");
-			b[i] = sc.nextInt();
+		for (int i=0; i<x; i++) {			\\ i=0, i가 x보다 작다면 i값 증가
+			System.out.println("b["+i+"]: ");	\\ b[(현재i값)] 출력
+			b[i] = sc.nextInt(); 			\\ 
 		}
 		
 		System.out.println("배열 a와b는"+ (equals(a,b)?"같습니다.":"같지 않습니다."));
